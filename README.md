@@ -9,3 +9,7 @@ Github: *A place to store all the versions i.e: repo> branches > git.files*
 - commit: Save your files in Git
 - push: Upload the files
 - pull: download changes from github repo
+
+## Learning branches:
+- git checkout -b branchneme: creates new branch
+- git checkout branchname: switches brance
