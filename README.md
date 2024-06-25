@@ -1,3 +1,11 @@
-# learn-github
+# Leanring Git& Github
 
-learning github and git cmds
+Git: *A version controler*
+Github: *A place to store all the versions i.e: repo> branches > git.files*
+
+## Basic Git Commands:
+- clone: helps to download files/folders
+- add: Track your files and changes in Git
+- commit: Save your files in Git
+- push: Upload the files
+- pull: download changes from github repo
