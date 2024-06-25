@@ -11,5 +11,7 @@ Github: *A place to store all the versions i.e: repo> branches > git.files*
 - pull: download changes from github repo
 
 ## Learning branches:
+- git branch: check available branches
 - git checkout -b branchneme: creates new branch
 - git checkout branchname: switches brance
+- git branch -d branch: delete branch
